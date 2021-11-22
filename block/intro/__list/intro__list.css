@@ -1,0 +1,7 @@
+.intro__list {
+    list-style-type: none;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 0;
+}
