@@ -1,6 +1,7 @@
 .place__website {
-    font-family: 'Inter-Regular', sans-serif;
+    font-family: 'Inter', sans-serif;
     max-width: 456px;
+    font-weight: 400;
     align-self: end;
 }
 

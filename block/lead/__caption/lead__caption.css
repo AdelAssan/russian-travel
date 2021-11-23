@@ -3,8 +3,9 @@
     display: block;
     max-width: 984px;
     text-align: start;
-    font-family: 'Inter-Regular', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 10px;
+    font-weight: 400;
     line-height: 14px;
 }
 
